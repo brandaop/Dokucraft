@@ -1,7 +1,7 @@
 # Dokucraft
 Dokucraft textures (Mostly Mod Supports) worked on (at least in part) by me.
 
-This will include old stuff I have but may not necessarily have made. If you see anything that is not mine on here, tell me and I will acredit you accordingly.
+This will include old stuff I have but may not necessarily have made. If you see anything that is not mine on here, tell me and I will accredit you accordingly.
 
 
 
